@@ -1,0 +1,2 @@
+# practice-repo
+trying out linux in my spare time
